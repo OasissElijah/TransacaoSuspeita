@@ -16,7 +16,7 @@ public class Main {
         contaTest.setNumeroConta(1479);
         contaTest.setDigitoConta(5);
         contaTest.setAgencia(999);
-        contaTest.setSenhaConta(0306);
+        contaTest.setSenhaConta(1536);
         clienteTest.setContaCliente(contaTest);
         
         //Criação da Lista de Transações que o usuário irá fazer agora
