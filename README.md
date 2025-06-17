@@ -11,9 +11,9 @@ Intruções do Projeto:
 4. Defina na classe main os dados do Cliente:
 5. Compile e execute o projeto.
 6. No menu interativo, siga as opções para:
-   - 1. Consultar dados do cliente
-   - 2. Ver histórico de transações
-   - 3. Realizar uma nova transação
+   - 1. 1-Consultar dados do cliente
+   - 2. 2-Ver histórico de transações
+   - 3. 3-Realizar uma nova transação
 
 EXEMPLOS DE USO:
 Terminal completo com algumas das possibilidades de uso, com o analisador de suspeitas funcionando com o limite de até R$10000
